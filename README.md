@@ -6,4 +6,4 @@ Dataset : [heart_failure_clinical_records_dataset.csv](https://www.kaggle.com/da
 
 Link : http://group8ensemble.pythonanywhere.com/
 
-Linkedin : [Kayla Alysa Adra](https://www.linkedin.com/in/kaylaalysa/)
+
